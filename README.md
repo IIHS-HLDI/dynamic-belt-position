@@ -98,7 +98,7 @@ This package currently assumes the following folder structure:
 
 ### Installation
 
- Install the package using Python 11.x in Powershell
+ Install the package using Python 3.11.x in Powershell
 
 ```powershell
 cd path\to\folder\dynamic-belt-position

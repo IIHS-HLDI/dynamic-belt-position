@@ -65,7 +65,7 @@ At each frame, after cleaning the data, the script identifies the left and right
    A folder with CSV files containing pressure data. Pressure sensor data should be recorded at 3300 Hz.
 
    Export settings for XSensor HSI software:
-    - Export frame containing time 0
+    - Include frame containing time 0
     - Pressure units as `kPa` or `bar`.
     - CSV format
     - One file per frame (Export -> CSV / Text Options -> Seperate file for each frame)
@@ -199,7 +199,6 @@ xsensor-belt-position/
 │   ├── chest deflection file
 │   └── frame_file
 ├── .gitignore
-├── Inputs guide.md
 ├── pyproject.toml
 ├── README.md
 └── requirements.txt

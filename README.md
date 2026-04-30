@@ -157,7 +157,7 @@ In a terminal inside the project folder:
 ## Project structure
 
 ```bash
-xsensor-belt-position/
+dynamic-belt-position/
 ├── src/
 │   └── belt_position/
 │       ├── algorithm/

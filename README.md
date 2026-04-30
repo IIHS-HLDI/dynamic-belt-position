@@ -66,7 +66,7 @@ At each frame, after cleaning the data, the script identifies the left and right
 
    Export settings for XSensor HSI software:
     - Include frame containing time 0
-    - Pressure units as `kPa` or `bar`
+    - Pressure units as `kPa` or `bar`.
     - CSV format
     - One file per frame (Export -> CSV / Text Options -> Seperate file for each frame)
     - Time format as `HH:mm:ss:LLLLLL` (Options -> Units & Statictics -> Units & Formats -> Time Format)
